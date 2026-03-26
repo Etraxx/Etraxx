@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭I am currently working on a Video Game, a Website and an Application for iPhone<br>👯I work with friends from my high school<br>🤝At the moment I don't need help with my projects<br>🌱I am learning Swift, C++, Java, HTML, CSS and Python<br>⚡I decided to get into programming at the end of my Year 9 at High School
+🔭I am currently looking for a project<br>👯I work with friends from my high school<br>🤝At the moment I don't need help with my projects<br>🌱I am learning Swift, C++, Java and Python<br>⚡I decided to get into programming at the end of my Year 9 at High School
 
 
 ## 🌐 Socials:
